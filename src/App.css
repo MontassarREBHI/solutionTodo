@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Francois+One|PT+Serif:400,400i,700,700i");
+
+body {
+  margin: 0px;
+  color: #2c3e50;
+  background-color: #ecf0f1;
+  font-size: 1.1em;
+}
+
+.main {
+  width: 590px;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  border: 1px solid #77777769;
+  background-color: #fdfdfd;
+  box-shadow: 0 0 1em #80808066;
+  border-radius: 4px;
+}
+
+.todo-list {
+  font-size: 35px;
+  font-family: "Francois One";
+  margin-bottom: 10px;
+}
